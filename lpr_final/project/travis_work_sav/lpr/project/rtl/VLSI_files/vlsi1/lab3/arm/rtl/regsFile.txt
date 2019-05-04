@@ -1,0 +1,2520 @@
+time:                    0 aBus: xxxxxxx dBus: xxxxxxxx
+cycles:          0 rd: x wr: x clear 0 test 0 scanin x
+state:  x      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000000 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:xxxxxxxx R14S:00000000 R15: xxxxxxxx
+qfull: x
+
+time:                   51 aBus: 0000000 dBus: e3a00001
+cycles:          1 rd: 1 wr: 0 clear 0 test 0 scanin 0
+state:  1      IR: 00000000            IRcurr: 00000000
+R0:  00000000 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000000
+qfull: 0
+
+time:                  101 aBus: 0000000 dBus: e3a00001
+cycles:          2 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  1      IR: 00000000            IRcurr: 00000000
+R0:  00000000 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000000
+qfull: 0
+
+time:                  151 aBus: 0000000 dBus: e3a00001
+cycles:          3 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  2      IR: 00000000            IRcurr: 00000000
+R0:  00000000 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0c000003
+qfull: 0
+
+time:                  201 aBus: 0000000 dBus: e3a00001
+cycles:          4 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  3      IR: 00000000            IRcurr: 00000000
+R0:  00000000 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0c000003
+qfull: 0
+
+time:                  251 aBus: 0000004 dBus: e3a01002
+cycles:          5 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a00001            IRcurr: 00000000
+R0:  00000000 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0000000b
+qfull: 0
+
+time:                  301 aBus: 0000008 dBus: e3a02004
+cycles:          6 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a01002            IRcurr: e3a00001
+R0:  00000001 R1:  00000000 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0000000f
+qfull: 0
+
+time:                  351 aBus: 000000c dBus: e3a03008
+cycles:          7 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a02004            IRcurr: e3a01002
+R0:  00000001 R1:  00000002 R2:  00000000 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000013
+qfull: 0
+
+time:                  401 aBus: 0000010 dBus: e3a04010
+cycles:          8 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a03008            IRcurr: e3a02004
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000000
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000017
+qfull: 0
+
+time:                  451 aBus: 0000014 dBus: e3a05020
+cycles:          9 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a04010            IRcurr: e3a03008
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000000 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0000001b
+qfull: 0
+
+time:                  501 aBus: 0000018 dBus: e3a06040
+cycles:         10 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a05020            IRcurr: e3a04010
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000000 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0000001f
+qfull: 0
+
+time:                  551 aBus: 000001c dBus: xxxxxxxx
+cycles:         11 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: e3a06040            IRcurr: e3a05020
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000000 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000023
+qfull: 0
+
+time:                  601 aBus: 0000020 dBus: xxxxxxxx
+cycles:         12 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: e3a06040
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000027
+qfull: 0
+
+time:                  651 aBus: 0000024 dBus: xxxxxxxx
+cycles:         13 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000027
+qfull: 0
+
+time:                  701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         14 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 00000027
+qfull: 0
+
+time:                  751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         15 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                  801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         16 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                  851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         17 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                  901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         18 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                  951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         19 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         20 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         21 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         22 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         23 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         24 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         25 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         26 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         27 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         28 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         29 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         30 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         31 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         32 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         33 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         34 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         35 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         36 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         37 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         38 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 1951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         39 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         40 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         41 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         42 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         43 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         44 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         45 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         46 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         47 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         48 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         49 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         50 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         51 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         52 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         53 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         54 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         55 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         56 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         57 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         58 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 2951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         59 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         60 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         61 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         62 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         63 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         64 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         65 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         66 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         67 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         68 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         69 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         70 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         71 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         72 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         73 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         74 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         75 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         76 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         77 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         78 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 3951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         79 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         80 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         81 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         82 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         83 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         84 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         85 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         86 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         87 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         88 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         89 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         90 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         91 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         92 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         93 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         94 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         95 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         96 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         97 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         98 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 4951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:         99 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        100 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        101 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        102 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        103 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        104 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        105 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        106 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        107 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        108 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        109 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        110 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        111 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        112 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        113 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        114 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        115 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        116 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        117 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        118 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 5951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        119 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        120 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        121 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        122 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        123 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        124 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        125 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        126 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        127 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        128 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        129 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        130 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        131 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        132 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        133 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        134 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        135 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        136 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        137 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        138 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 6951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        139 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        140 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        141 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        142 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        143 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        144 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        145 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        146 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        147 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        148 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        149 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        150 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        151 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        152 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        153 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        154 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        155 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        156 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        157 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        158 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 7951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        159 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        160 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        161 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        162 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        163 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        164 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        165 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        166 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        167 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        168 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        169 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        170 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        171 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        172 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        173 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        174 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        175 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        176 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        177 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        178 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 8951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        179 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        180 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        181 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        182 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        183 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        184 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        185 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        186 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        187 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        188 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        189 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        190 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        191 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        192 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        193 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        194 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        195 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        196 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        197 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        198 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                 9951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        199 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        200 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        201 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        202 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        203 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        204 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        205 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        206 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        207 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        208 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        209 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        210 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        211 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        212 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        213 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        214 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        215 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        216 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        217 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        218 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                10951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        219 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        220 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        221 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        222 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        223 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        224 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        225 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        226 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        227 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        228 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        229 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        230 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        231 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        232 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        233 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        234 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        235 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        236 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        237 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        238 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                11951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        239 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        240 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        241 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        242 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        243 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        244 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        245 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        246 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        247 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        248 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        249 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        250 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        251 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        252 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        253 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        254 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        255 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        256 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        257 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        258 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                12951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        259 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13001 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        260 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13051 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        261 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13101 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        262 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13151 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        263 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13201 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        264 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13251 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        265 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13301 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        266 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13351 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        267 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13401 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        268 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13451 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        269 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13501 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        270 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13551 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        271 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13601 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        272 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13651 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        273 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13701 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        274 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13751 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        275 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13801 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        276 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13851 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        277 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  5      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13901 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        278 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  6      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+
+time:                13951 aBus: xxxxxxX dBus: xxxxxxxx
+cycles:        279 rd: 1 wr: 0 clear 1 test 0 scanin 0
+state:  0      IR: xxxxxxxx            IRcurr: xxxxxxxx
+R0:  00000001 R1:  00000002 R2:  00000004 R3:  00000008
+R4:  00000010 R5:  00000020 R6:  00000040 R7:  00000000
+R8:  00000000 R9:  00000000 R10: 00000000 R11: 00000000
+R12: 00000000 R13S:00000000 R14S:00000000 R15: 0XxxxxxX
+qfull: 0
+

@@ -1,0 +1,10 @@
+Spectre (R) Circuit Simulator
+Version 16.1.0.479.isr9 64bit -- 7 Sep 2017
+Simulating `input.scs' on wario at 9:20:03 PM, Thur Mar 8, 2018 (process id: 13460).
+H = mpsImport( "spectre" "ipi" "v0.0" ?session "spectre1_13907_43" )
+H->sclSetResultDir( "../psf" )
+H->sclRun( "all" )
+H->sclSetResultDir( "../psf" )
+H->sclRun( "all" )
+sclCkt0x984c740 = H->sclGetCircuit(  "" )
+H->sclQuit(  )

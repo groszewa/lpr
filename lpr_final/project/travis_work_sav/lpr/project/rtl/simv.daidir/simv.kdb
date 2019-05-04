@@ -1,0 +1,9 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/misc/scratch/tlenz/lpr/project/rtl
+SystemC=FALSE
+UUM=FALSE
+KDB=FALSE
+USE_NOVAS_HOME=FALSE
+TOP=timeunit rc 

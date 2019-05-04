@@ -1,0 +1,110 @@
+{
+    "CompileProcesses": [
+        "cgproc.12395.json"
+    ],
+    "CompileStrategy": "fullobj",
+    "SIMBData": {
+        "bytes": 59141,
+        "out": "amcQwB.o"
+    },
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "counter_tb": {
+            "DHWT6_d": {
+                "out": "DHWT6_d.o",
+                "bytes": 17799,
+                "mod": "counter_tb",
+                "checksum": 4294967295,
+                "mode": 4,
+                "archive": "archive.14/_12395_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "out": "objs/amcQw_d.o",
+                "bytes": 7101,
+                "mod": "...MASTER...",
+                "checksum": 4294967295,
+                "mode": 4
+            }
+        }
+    },
+    "stat": {
+        "quadSpeed": 12119.072832097889,
+        "ru_self_end": {
+            "ru_minflt": 13691,
+            "ru_utime_sec": 0.064990000000000006,
+            "ru_stime_sec": 0.039993000000000001,
+            "ru_maxrss_kb": 59584,
+            "ru_majflt": 0,
+            "ru_nvcsw": 282,
+            "ru_nivcsw": 36
+        },
+        "ru_self_cgstart": {
+            "ru_minflt": 11784,
+            "ru_utime_sec": 0.047992,
+            "ru_stime_sec": 0.029995000000000001,
+            "ru_maxrss_kb": 53360,
+            "ru_majflt": 0,
+            "ru_nvcsw": 205,
+            "ru_nivcsw": 21
+        },
+        "ru_childs_cgstart": {
+            "ru_minflt": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0,
+            "ru_nivcsw": 0
+        },
+        "nMops": 502,
+        "nQuads": 206,
+        "ru_childs_end": {
+            "ru_minflt": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0,
+            "ru_nivcsw": 0
+        },
+        "totalObjSize": 84041,
+        "mopSpeed": 29532.886221908448,
+        "mop/quad": 2.436893203883495,
+        "outputSizePerQuad": 407.0,
+        "Frontend(%)": 73.845206954916137,
+        "CodeGen(%)": 26.154793045083867
+    },
+    "NameTable": {
+        "counter_tb": [
+            "counter_tb",
+            "DHWT6",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CurCompileUdps": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "counter_tb"
+    ],
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "Misc": {
+        "daidir": "simv.daidir",
+        "cwd": "/misc/scratch/ajgrosze/lpr/project/rtl",
+        "csrc_abs": "/misc/scratch/ajgrosze/lpr/project/rtl/csrc",
+        "csrc": "csrc",
+        "daidir_abs": "/misc/scratch/ajgrosze/lpr/project/rtl/simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.14"
+    },
+    "CompileStatus": "Successful"
+}

@@ -1,0 +1,7 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: single_inv_sim
+// View name: schematic
+I0 (net5 vout net3) inv
+V1 (net3 0) vsource dc=vdc type=dc
+V0 (net5 0) vsource dc=0 type=dc

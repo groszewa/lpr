@@ -1,0 +1,7 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: q1_an
+// View name: schematic
+V0 (net5 0) vsource dc=1.2 type=dc
+M0 (Vout Vin 0 0) nmos w=320.00n l=32.000n
+M1 (Vout Vin net5 net5) pmos w=320.00n l=32.000n

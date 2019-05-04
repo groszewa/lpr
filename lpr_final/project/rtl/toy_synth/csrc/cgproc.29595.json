@@ -1,0 +1,199 @@
+{
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_29595_archive_1.a",
+            "objects": [
+                [
+                    "MQn6b_d.o",
+                    8037
+                ],
+                [
+                    "fA2Uu_d.o",
+                    8023
+                ],
+                [
+                    "rpIIn_d.o",
+                    10677
+                ],
+                [
+                    "LqjQm_d.o",
+                    11073
+                ],
+                [
+                    "vKGVm_d.o",
+                    6229
+                ],
+                [
+                    "s371D_d.o",
+                    9083
+                ],
+                [
+                    "H4SVv_d.o",
+                    6461
+                ],
+                [
+                    "M9bBQ_d.o",
+                    10008
+                ],
+                [
+                    "JBKGN_d.o",
+                    15266
+                ],
+                [
+                    "YtSiU_d.o",
+                    7707
+                ],
+                [
+                    "Emx8S_d.o",
+                    52772
+                ]
+            ],
+            "size": 145336
+        }
+    ],
+    "Modules": {
+        "...MASTER...": {},
+        "counter": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_2b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_mul_16b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_8b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "ctr_out_bank": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "det_stoch_mul": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "shift_reg_16b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg_4b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_scale_add_16b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg4b_bank": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "JBKGN_d": {
+            "mod": "ctr_out_bank",
+            "out": "JBKGN_d.o",
+            "mode": 4,
+            "bytes": 15266,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "mode": 4,
+            "bytes": 8734,
+            "checksum": 4294967295
+        },
+        "s371D_d": {
+            "mod": "shift_reg_16b",
+            "out": "s371D_d.o",
+            "mode": 4,
+            "bytes": 9083,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "MQn6b_d": {
+            "mod": "counter",
+            "out": "MQn6b_d.o",
+            "mode": 4,
+            "bytes": 8037,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "H4SVv_d": {
+            "mod": "pipe_mul_16b",
+            "out": "H4SVv_d.o",
+            "mode": 4,
+            "bytes": 6461,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "fA2Uu_d": {
+            "mod": "comp_2b",
+            "out": "fA2Uu_d.o",
+            "mode": 4,
+            "bytes": 8023,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "rpIIn_d": {
+            "mod": "comp_8b",
+            "out": "rpIIn_d.o",
+            "mode": 4,
+            "bytes": 10677,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "vKGVm_d": {
+            "mod": "det_stoch_mul",
+            "out": "vKGVm_d.o",
+            "mode": 4,
+            "bytes": 6229,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "YtSiU_d": {
+            "mod": "prg4b_bank",
+            "out": "YtSiU_d.o",
+            "mode": 4,
+            "bytes": 7707,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "LqjQm_d": {
+            "mod": "prg_4b",
+            "out": "LqjQm_d.o",
+            "mode": 4,
+            "bytes": 11073,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "M9bBQ_d": {
+            "mod": "pipe_scale_add_16b",
+            "out": "M9bBQ_d.o",
+            "mode": 4,
+            "bytes": 10008,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        },
+        "Emx8S_d": {
+            "mod": "top",
+            "out": "Emx8S_d.o",
+            "mode": 4,
+            "bytes": 52772,
+            "checksum": 4294967295,
+            "archive": "archive.0/_29595_archive_1.a"
+        }
+    },
+    "reusePaths": {}
+}

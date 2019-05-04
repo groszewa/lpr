@@ -1,0 +1,119 @@
+{
+    "Modules": {
+        "comp_2b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "...MASTER...": {},
+        "pipe_mac_tb": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "counter": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg_4b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_8b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "det_stoch_mul": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 8019,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "MQn6b_d": {
+            "mod": "counter",
+            "out": "MQn6b_d.o",
+            "archive": "archive.0/_25163_archive_1.a",
+            "bytes": 8544,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "rpIIn_d": {
+            "mod": "comp_8b",
+            "out": "rpIIn_d.o",
+            "archive": "archive.0/_25163_archive_1.a",
+            "bytes": 10853,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "fA2Uu_d": {
+            "mod": "comp_2b",
+            "out": "fA2Uu_d.o",
+            "archive": "archive.0/_25163_archive_1.a",
+            "bytes": 8847,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "LqjQm_d": {
+            "mod": "prg_4b",
+            "out": "LqjQm_d.o",
+            "archive": "archive.0/_25163_archive_1.a",
+            "bytes": 16773,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "vKGVm_d": {
+            "mod": "det_stoch_mul",
+            "out": "vKGVm_d.o",
+            "archive": "archive.0/_25163_archive_1.a",
+            "bytes": 6221,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "KPLi1_d": {
+            "mod": "pipe_mac_tb",
+            "out": "KPLi1_d.o",
+            "archive": "archive.0/_25163_archive_1.a",
+            "bytes": 57558,
+            "mode": 4,
+            "checksum": 4294967295
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_25163_archive_1.a",
+            "objects": [
+                [
+                    "MQn6b_d.o",
+                    8544
+                ],
+                [
+                    "fA2Uu_d.o",
+                    8847
+                ],
+                [
+                    "rpIIn_d.o",
+                    10853
+                ],
+                [
+                    "LqjQm_d.o",
+                    16773
+                ],
+                [
+                    "vKGVm_d.o",
+                    6221
+                ],
+                [
+                    "KPLi1_d.o",
+                    57558
+                ]
+            ],
+            "size": 108796
+        }
+    ]
+}

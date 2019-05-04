@@ -1,0 +1,3 @@
+SOFTINCLUDE /misc/linuxws/packages/cadence_2017/ic617/share/cdssetup/cds.lib
+DEFINE scratch_lib /home/ecelrc/students/agroszewski/lpr/hw1/test/scratch_lib
+DEFINE ajgrosze_scratch /home/ecelrc/students/agroszewski/lpr/hw1/test/ajgrosze_scratch

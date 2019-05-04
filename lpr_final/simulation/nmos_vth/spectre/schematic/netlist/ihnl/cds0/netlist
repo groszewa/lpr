@@ -1,0 +1,7 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: nmos_vth
+// View name: schematic
+M0 (net3 Vin 0 net03) nmos w=320.00n l=len
+Vbs (net03 0) vsource dc=vbsweep type=dc
+Vds (net3 0) vsource dc=vds_sweep type=dc

@@ -1,0 +1,39 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "testbench": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 7101,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "iAVhC_d": {
+            "mod": "testbench",
+            "archive": "archive.0/_25447_archive_1.a",
+            "out": "iAVhC_d.o",
+            "bytes": 16259,
+            "mode": 4,
+            "checksum": 4294967295
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_25447_archive_1.a",
+            "size": 16259,
+            "objects": [
+                [
+                    "iAVhC_d.o",
+                    16259
+                ]
+            ]
+        }
+    ],
+    "reusePaths": {}
+}

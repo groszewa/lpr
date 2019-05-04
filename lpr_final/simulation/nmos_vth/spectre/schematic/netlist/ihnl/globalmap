@@ -1,0 +1,13 @@
+CADENCE IHNL11140
+$model
+ajgrosze_scratch/nmos_vth/schematic nmos_vth
+$endmodel
+$net
+gnd! 0
+$endnet
+$param
+len len
+vbsweep vbsweep
+vds_sweep vds_sweep
+Vsweep Vsweep
+$endparam

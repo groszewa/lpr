@@ -1,0 +1,196 @@
+{
+    "NameTable": {
+        "counter_0000": [
+            "counter_0000",
+            "DjtTS",
+            "module"
+        ],
+        "pipe_mul_32b": [
+            "pipe_mul_32b",
+            "DLCLm",
+            "module"
+        ],
+        "counter_0001": [
+            "counter_0001",
+            "ZeHqI",
+            "module"
+        ],
+        "counter_0002": [
+            "counter_0002",
+            "gfKFe",
+            "module"
+        ],
+        "comp_2b": [
+            "comp_2b",
+            "fA2Uu",
+            "module"
+        ],
+        "det_stoch_mul": [
+            "det_stoch_mul",
+            "vKGVm",
+            "module"
+        ],
+        "comp_8b": [
+            "comp_8b",
+            "rpIIn",
+            "module"
+        ],
+        "comp_10b": [
+            "comp_10b",
+            "ImfRL",
+            "module"
+        ],
+        "prg_4b": [
+            "prg_4b",
+            "LqjQm",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "ctr_out_bank_32_q": [
+            "ctr_out_bank_32_q",
+            "epzi0",
+            "module"
+        ],
+        "shift_reg_32b": [
+            "shift_reg_32b",
+            "IBJVr",
+            "module"
+        ],
+        "shift_reg_32b_q": [
+            "shift_reg_32b_q",
+            "aQCzp",
+            "module"
+        ],
+        "shift_reg_32b_half": [
+            "shift_reg_32b_half",
+            "SU8LJ",
+            "module"
+        ],
+        "pipe_mul_16b": [
+            "pipe_mul_16b",
+            "H4SVv",
+            "module"
+        ],
+        "pipe_mul_8b": [
+            "pipe_mul_8b",
+            "LUu6B",
+            "module"
+        ],
+        "pipe_mul_2b": [
+            "pipe_mul_2b",
+            "QRPpj",
+            "module"
+        ],
+        "ctr_out_bank_32": [
+            "ctr_out_bank_32",
+            "FpAYW",
+            "module"
+        ],
+        "ctr_out_bank_32_half": [
+            "ctr_out_bank_32_half",
+            "rVj8u",
+            "module"
+        ],
+        "pipe_mul_5b_e_top": [
+            "pipe_mul_5b_e_top",
+            "Cxt4V",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "outputSizePerQuad": 78.0,
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.10498399999999999,
+            "ru_stime_sec": 0.035993999999999998,
+            "ru_minflt": 11944,
+            "ru_maxrss_kb": 53928,
+            "ru_nvcsw": 154,
+            "ru_majflt": 0,
+            "ru_nivcsw": 31
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0
+        },
+        "nQuads": 3625,
+        "quadSpeed": 34203.598690356004,
+        "nMops": 12799,
+        "ru_self_end": {
+            "ru_utime_sec": 0.21096699999999999,
+            "ru_stime_sec": 0.056991,
+            "ru_minflt": 14203,
+            "ru_maxrss_kb": 61184,
+            "ru_nvcsw": 261,
+            "ru_majflt": 0,
+            "ru_nivcsw": 106
+        },
+        "totalObjSize": 284638,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0
+        },
+        "mopSpeed": 120764.65093458386,
+        "CodeGen(%)": 50.236766887712299,
+        "mop/quad": 3.5307586206896553,
+        "Frontend(%)": 49.763233112287708
+    },
+    "CompileStatus": "Successful",
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 57588
+    },
+    "Misc": {
+        "cwd": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mul_5bit_e",
+        "daidir_abs": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mul_5bit_e/pipe_mul.daidir",
+        "daidir": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mul_5bit_e/pipe_mul.daidir",
+        "csrc": "csrc",
+        "default_output_dir": "csrc",
+        "csrc_abs": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mul_5bit_e/csrc",
+        "archive_dir": "archive.0"
+    },
+    "CurCompileUdps": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "counter_0000",
+        "counter_0001",
+        "counter_0002",
+        "comp_2b",
+        "comp_8b",
+        "comp_10b",
+        "prg_4b",
+        "det_stoch_mul",
+        "shift_reg_32b",
+        "shift_reg_32b_half",
+        "shift_reg_32b_q",
+        "pipe_mul_32b",
+        "pipe_mul_16b",
+        "pipe_mul_8b",
+        "pipe_mul_2b",
+        "ctr_out_bank_32",
+        "ctr_out_bank_32_half",
+        "ctr_out_bank_32_q",
+        "pipe_mul_5b_e_top"
+    ],
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.22539.json"
+    ]
+}

@@ -1,0 +1,11 @@
+CADENCE IHNL11140
+$model
+ajgrosze_scratch/inv/schematic inv
+ajgrosze_scratch/single_inv_sim/schematic single_inv_sim
+$endmodel
+$net
+gnd! 0
+$endnet
+$param
+vdc vdc
+$endparam

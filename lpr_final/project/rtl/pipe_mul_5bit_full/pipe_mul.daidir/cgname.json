@@ -1,0 +1,92 @@
+{
+    "shift_reg_16b_half": [
+        "shift_reg_16b_half",
+        "xR8eR",
+        "module"
+    ],
+    "counter_0000": [
+        "counter_0000",
+        "DjtTS",
+        "module"
+    ],
+    "comp_2b": [
+        "comp_2b",
+        "fA2Uu",
+        "module"
+    ],
+    "comp_10b": [
+        "comp_10b",
+        "ImfRL",
+        "module"
+    ],
+    "shift_reg_16b_eighth": [
+        "shift_reg_16b_eighth",
+        "jZhb1",
+        "module"
+    ],
+    "comp_8b": [
+        "comp_8b",
+        "rpIIn",
+        "module"
+    ],
+    "pipe_mul_16b_eighth": [
+        "pipe_mul_16b_eighth",
+        "Yuv5I",
+        "module"
+    ],
+    "prg_4b": [
+        "prg_4b",
+        "LqjQm",
+        "module"
+    ],
+    "pipe_mul_16b_quarter": [
+        "pipe_mul_16b_quarter",
+        "ysNsi",
+        "module"
+    ],
+    "shift_reg_16b_quarter": [
+        "shift_reg_16b_quarter",
+        "hWIug",
+        "module"
+    ],
+    "det_stoch_mul": [
+        "det_stoch_mul",
+        "vKGVm",
+        "module"
+    ],
+    "shift_reg_16b_noshift": [
+        "shift_reg_16b_noshift",
+        "cwdnH",
+        "module"
+    ],
+    "ctr_out_bank_quarter": [
+        "ctr_out_bank_quarter",
+        "P7vKe",
+        "module"
+    ],
+    "pipe_mul_16b_half": [
+        "pipe_mul_16b_half",
+        "uDd7p",
+        "module"
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module"
+    ],
+    "ctr_out_bank_eighth": [
+        "ctr_out_bank_eighth",
+        "J6fFH",
+        "module"
+    ],
+    "ctr_out_bank_half": [
+        "ctr_out_bank_half",
+        "QAfwC",
+        "module"
+    ],
+    "pipe_mul_5b_full_top": [
+        "pipe_mul_5b_full_top",
+        "tZ21E",
+        "module"
+    ]
+}

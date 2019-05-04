@@ -1,0 +1,87 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "dsc_mul_tb": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_2b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_8b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg_4b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mode": 4,
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 7885,
+            "checksum": 4294967295
+        },
+        "HEVRH_d": {
+            "mode": 4,
+            "mod": "dsc_mul_tb",
+            "out": "HEVRH_d.o",
+            "bytes": 19817,
+            "checksum": 4294967295,
+            "archive": "archive.0/_28959_archive_1.a"
+        },
+        "fA2Uu_d": {
+            "mode": 4,
+            "mod": "comp_2b",
+            "out": "fA2Uu_d.o",
+            "bytes": 8847,
+            "checksum": 4294967295,
+            "archive": "archive.0/_28959_archive_1.a"
+        },
+        "LqjQm_d": {
+            "mode": 4,
+            "mod": "prg_4b",
+            "out": "LqjQm_d.o",
+            "bytes": 16412,
+            "checksum": 4294967295,
+            "archive": "archive.0/_28959_archive_1.a"
+        },
+        "rpIIn_d": {
+            "mode": 4,
+            "mod": "comp_8b",
+            "out": "rpIIn_d.o",
+            "bytes": 10853,
+            "checksum": 4294967295,
+            "archive": "archive.0/_28959_archive_1.a"
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_28959_archive_1.a",
+            "objects": [
+                [
+                    "fA2Uu_d.o",
+                    8847
+                ],
+                [
+                    "rpIIn_d.o",
+                    10853
+                ],
+                [
+                    "LqjQm_d.o",
+                    16412
+                ],
+                [
+                    "HEVRH_d.o",
+                    19817
+                ]
+            ],
+            "size": 55929
+        }
+    ]
+}

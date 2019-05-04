@@ -1,0 +1,11 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: nmos_3stack_sim
+// View name: schematic
+Ma (net011 net06 net04 vss!) nmos w=320n l=32n
+Mb (net07 net03 net011 vss!) nmos w=320n l=32n
+Mc (vss! net010 net07 vss!) nmos w=320n l=32n
+Vc (net010 vss!) vsource dc=vgc type=dc
+Vb (net03 vss!) vsource dc=vgb type=dc
+V0 (net04 vss!) vsource dc=1.2 type=dc
+Va (net06 vss!) vsource dc=vga type=dc

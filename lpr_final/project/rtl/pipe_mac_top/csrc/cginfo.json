@@ -1,0 +1,118 @@
+{
+    "Misc": {
+        "daidir": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mac_top/pipe_mac.daidir",
+        "cwd": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mac_top",
+        "default_output_dir": "csrc",
+        "csrc": "csrc",
+        "csrc_abs": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mac_top/csrc",
+        "daidir_abs": "/misc/scratch/ajgrosze/lpr/project/rtl/pipe_mac_top/pipe_mac.daidir",
+        "archive_dir": "archive.0"
+    },
+    "NameTable": {
+        "pipe_mac_tb": [
+            "pipe_mac_tb",
+            "KPLi1",
+            "module"
+        ],
+        "counter": [
+            "counter",
+            "MQn6b",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "comp_2b": [
+            "comp_2b",
+            "fA2Uu",
+            "module"
+        ],
+        "prg_4b": [
+            "prg_4b",
+            "LqjQm",
+            "module"
+        ],
+        "comp_8b": [
+            "comp_8b",
+            "rpIIn",
+            "module"
+        ],
+        "det_stoch_mul": [
+            "det_stoch_mul",
+            "vKGVm",
+            "module"
+        ]
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "counter",
+        "comp_2b",
+        "comp_8b",
+        "prg_4b",
+        "det_stoch_mul",
+        "pipe_mac_tb"
+    ],
+    "CompileStrategy": "fullobj",
+    "PEModules": [],
+    "stat": {
+        "nQuads": 1896,
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.088985999999999996,
+            "ru_nvcsw": 175,
+            "ru_stime_sec": 0.035993999999999998,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 51408,
+            "ru_nivcsw": 29,
+            "ru_minflt": 11846
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0
+        },
+        "mop/quad": 3.3802742616033754,
+        "ru_self_end": {
+            "ru_utime_sec": 0.14397799999999999,
+            "ru_nvcsw": 260,
+            "ru_stime_sec": 0.052991000000000003,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 60356,
+            "ru_nivcsw": 63,
+            "ru_minflt": 14530
+        },
+        "nMops": 6409,
+        "totalObjSize": 176205,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0
+        },
+        "Frontend(%)": 61.805275806025925,
+        "mopSpeed": 116544.22461448939,
+        "CodeGen(%)": 38.194724193974082,
+        "quadSpeed": 34477.742217049752,
+        "outputSizePerQuad": 92.0
+    },
+    "CurCompileUdps": {},
+    "LVLData": [
+        "SIM"
+    ],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 59390
+    },
+    "CompileProcesses": [
+        "cgproc.25163.json"
+    ],
+    "CompileStatus": "Successful"
+}

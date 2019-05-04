@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      agroszewski
+HostName                       wario
+ProcessIdentifier              20019
+ProcessCreationTime_UTC        1519875538
+ProcessCreationTime_Readable   Wed Feb 28 21:38:58 2018 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ecelrc/students/agroszewski/lpr/schematics/ajgrosze_scratch/nmos_3stack_sim/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Feb 28 21:40:06 2018 CST

@@ -1,0 +1,1 @@
+time -v lib1 aluflags.v aop.v arm_alu.v arm_chip.v arm_ctrl_comb.v arm_ctrl_struct.v arm_dp.v arm.v ar.v bop.v count.v decode_addresses.v detect_skip.v din.v dout.v exc.v forward.v getregfromlist.v getreg.v ir.v main.v mapaluops.v master

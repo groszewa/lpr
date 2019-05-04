@@ -1,0 +1,327 @@
+{
+    "Modules": {
+        "counter_0002": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "ctr_out_bank_32_q": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "...MASTER...": {},
+        "shift_reg_32b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "shift_reg_32b_q": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "counter_0000": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_mul_32b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "counter_0001": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_8b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "det_stoch_mul": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_2b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "comp_10b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg_4b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "shift_reg_32b_half": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_mul_16b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_mul_8b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "ctr_out_bank_32": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_mul_2b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "ctr_out_bank_32_half": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "pipe_mul_5b_e_top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "QRPpj_d": {
+            "bytes": 6405,
+            "mod": "pipe_mul_2b",
+            "checksum": 4294967295,
+            "out": "QRPpj_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "amcQw_d": {
+            "bytes": 10207,
+            "mod": "...MASTER...",
+            "checksum": 4294967295,
+            "out": "objs/amcQw_d.o",
+            "mode": 4
+        },
+        "FpAYW_d": {
+            "bytes": 28171,
+            "mod": "ctr_out_bank_32",
+            "checksum": 4294967295,
+            "out": "FpAYW_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "rpIIn_d": {
+            "bytes": 10669,
+            "mod": "comp_8b",
+            "checksum": 4294967295,
+            "out": "rpIIn_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "LUu6B_d": {
+            "bytes": 6453,
+            "mod": "pipe_mul_8b",
+            "checksum": 4294967295,
+            "out": "LUu6B_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "DjtTS_d": {
+            "bytes": 8037,
+            "mod": "counter_0000",
+            "checksum": 4294967295,
+            "out": "DjtTS_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "ZeHqI_d": {
+            "bytes": 8037,
+            "mod": "counter_0001",
+            "checksum": 4294967295,
+            "out": "ZeHqI_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "SU8LJ_d": {
+            "bytes": 9047,
+            "mod": "shift_reg_32b_half",
+            "checksum": 4294967295,
+            "out": "SU8LJ_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "aQCzp_d": {
+            "bytes": 9015,
+            "mod": "shift_reg_32b_q",
+            "checksum": 4294967295,
+            "out": "aQCzp_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "gfKFe_d": {
+            "bytes": 8037,
+            "mod": "counter_0002",
+            "checksum": 4294967295,
+            "out": "gfKFe_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "LqjQm_d": {
+            "bytes": 10851,
+            "mod": "prg_4b",
+            "checksum": 4294967295,
+            "out": "LqjQm_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "fA2Uu_d": {
+            "bytes": 8015,
+            "mod": "comp_2b",
+            "checksum": 4294967295,
+            "out": "fA2Uu_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "vKGVm_d": {
+            "bytes": 6221,
+            "mod": "det_stoch_mul",
+            "checksum": 4294967295,
+            "out": "vKGVm_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "ImfRL_d": {
+            "bytes": 11129,
+            "mod": "comp_10b",
+            "checksum": 4294967295,
+            "out": "ImfRL_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "IBJVr_d": {
+            "bytes": 8979,
+            "mod": "shift_reg_32b",
+            "checksum": 4294967295,
+            "out": "IBJVr_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "DLCLm_d": {
+            "bytes": 6333,
+            "mod": "pipe_mul_32b",
+            "checksum": 4294967295,
+            "out": "DLCLm_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "H4SVv_d": {
+            "bytes": 6453,
+            "mod": "pipe_mul_16b",
+            "checksum": 4294967295,
+            "out": "H4SVv_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "rVj8u_d": {
+            "bytes": 21771,
+            "mod": "ctr_out_bank_32_half",
+            "checksum": 4294967295,
+            "out": "rVj8u_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "epzi0_d": {
+            "bytes": 14979,
+            "mod": "ctr_out_bank_32_q",
+            "checksum": 4294967295,
+            "out": "epzi0_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        },
+        "Cxt4V_d": {
+            "bytes": 28241,
+            "mod": "pipe_mul_5b_e_top",
+            "checksum": 4294967295,
+            "out": "Cxt4V_d.o",
+            "archive": "archive.0/_22539_archive_1.a",
+            "mode": 4
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_22539_archive_1.a",
+            "objects": [
+                [
+                    "DjtTS_d.o",
+                    8037
+                ],
+                [
+                    "ZeHqI_d.o",
+                    8037
+                ],
+                [
+                    "gfKFe_d.o",
+                    8037
+                ],
+                [
+                    "fA2Uu_d.o",
+                    8015
+                ],
+                [
+                    "rpIIn_d.o",
+                    10669
+                ],
+                [
+                    "ImfRL_d.o",
+                    11129
+                ],
+                [
+                    "LqjQm_d.o",
+                    10851
+                ],
+                [
+                    "vKGVm_d.o",
+                    6221
+                ],
+                [
+                    "IBJVr_d.o",
+                    8979
+                ],
+                [
+                    "SU8LJ_d.o",
+                    9047
+                ],
+                [
+                    "aQCzp_d.o",
+                    9015
+                ],
+                [
+                    "DLCLm_d.o",
+                    6333
+                ],
+                [
+                    "H4SVv_d.o",
+                    6453
+                ],
+                [
+                    "LUu6B_d.o",
+                    6453
+                ],
+                [
+                    "QRPpj_d.o",
+                    6405
+                ],
+                [
+                    "FpAYW_d.o",
+                    28171
+                ],
+                [
+                    "rVj8u_d.o",
+                    21771
+                ],
+                [
+                    "epzi0_d.o",
+                    14979
+                ],
+                [
+                    "Cxt4V_d.o",
+                    28241
+                ]
+            ],
+            "size": 216843
+        }
+    ]
+}

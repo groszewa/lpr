@@ -1,0 +1,55 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "conv_mac_tb": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "checksum": 4294967295,
+            "bytes": 7295,
+            "mode": 4
+        },
+        "reYIK_d": {
+            "mod": "std",
+            "out": "reYIK_d.o",
+            "archive": "archive.0/_27097_archive_1.a",
+            "checksum": 4294967295,
+            "bytes": 28526,
+            "mode": 4
+        },
+        "VBS7H_d": {
+            "mod": "conv_mac_tb",
+            "out": "VBS7H_d.o",
+            "archive": "archive.0/_27097_archive_1.a",
+            "checksum": 4294967295,
+            "bytes": 60659,
+            "mode": 4
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "size": 89185,
+            "archive": "archive.0/_27097_archive_1.a",
+            "objects": [
+                [
+                    "reYIK_d.o",
+                    28526
+                ],
+                [
+                    "VBS7H_d.o",
+                    60659
+                ]
+            ]
+        }
+    ]
+}

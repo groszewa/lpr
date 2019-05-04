@@ -1,0 +1,9 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: nmos_stack_compare
+// View name: schematic
+Mstack_top (net07 net03 net04 vss!) nmos w=320n l=32n
+Mstack_bot (vss! net03 net07 vss!) nmos w=320n l=32n
+Msingle (vss! net03 net04 vss!) nmos w=320n l=32n
+V1 (net03 vss!) vsource dc=vgs type=dc
+V0 (net04 vss!) vsource dc=1.2 type=dc

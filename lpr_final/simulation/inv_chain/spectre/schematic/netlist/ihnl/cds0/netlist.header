@@ -1,0 +1,5 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: inv
+// View name: schematic
+subckt inv in out vdd

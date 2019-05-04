@@ -1,0 +1,4 @@
+HEADER
+"PSFversion" "1.00"
+"Mstack_topn Mstack_botn Msinglen" "analogLib_nmos4_spectre"
+"V1n V0n" "analogLib_vdc_spectre"

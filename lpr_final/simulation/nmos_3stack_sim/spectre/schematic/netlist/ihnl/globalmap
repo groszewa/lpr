@@ -1,0 +1,12 @@
+CADENCE IHNL11140
+$model
+ajgrosze_scratch/nmos_3stack_sim/schematic nmos_3stack_sim
+$endmodel
+$net
+vss! vss!
+$endnet
+$param
+vgc vgc
+vgb vgb
+vga vga
+$endparam

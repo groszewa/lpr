@@ -1,0 +1,28 @@
+// signals2.defs
+//
+// David Van Campenhout
+//
+//
+
+//
+// control signals
+//
+
+`define	qFull_D	TOP.ARM.CTRL.qFull_D
+`define	qFull_Q	TOP.ARM.CTRL.qFull_Q
+
+`define	state	TOP.ARM.CTRL.state
+`define	state_D	TOP.ARM.CTRL.state_D
+`define	state_Q	TOP.ARM.CTRL.state_Q
+
+`define	Ifetch_D	TOP.ARM.CTRL.Ifetch_D
+`define	Ifetch_Q	TOP.ARM.CTRL.Ifetch_Q
+
+`define 	aop_s	TOP.ARM.CTRL.Aop_sel
+`define 	bop_s	TOP.ARM.CTRL.Bop_sel
+
+`define	evalCondition_D	TOP.ARM.CTRL.evalCondition_D
+`define	evalCondition_Q	TOP.ARM.CTRL.evalCondition_Q
+
+//`define		TOP.ARM.CTRL.
+//`define		TOP.ARM.CTRL.

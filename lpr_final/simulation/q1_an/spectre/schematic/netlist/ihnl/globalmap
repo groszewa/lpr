@@ -1,0 +1,11 @@
+CADENCE IHNL11140
+$model
+ajgrosze_scratch/q1_an/schematic q1_an
+$endmodel
+$net
+gnd! 0
+vdd! vdd!
+$endnet
+$param
+u u
+$endparam

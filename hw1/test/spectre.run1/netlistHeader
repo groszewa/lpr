@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Feb 10 23:31:31 2018
+// Design library name: ajgrosze_scratch
+// Design cell name: q1_an
+// Design view name: schematic
+simulator lang=spectre
+global 0 vdd!

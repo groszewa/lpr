@@ -1,0 +1,17 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: inv_chain
+// View name: schematic
+V2 (vdd! 0) vsource dc=vdc type=dc
+V1 (net017 0) vsource dc=vsource type=dc
+V0 (net014 0) vsource type=pulse val0=0 val1=vsource period=6n width=1n
+inv9 (net03 out net017) inv
+inv8 (net05 net03 net017) inv
+inv7 (net06 net05 net017) inv
+inv6 (net04 net06 net017) inv
+inv5 (net07 net04 net017) inv
+inv4 (net08 net07 net017) inv
+inv3 (net09 net08 net017) inv
+inv2 (net010 net09 net017) inv
+inv1 (net012 net010 net017) inv
+inv0 (net014 net012 net017) inv

@@ -1,0 +1,27 @@
+01:21:39    16 -->                                                             [tcl] ucliGUI::connect -toolargs -ucligui -toolexe ./simv -pid 2600 -toolin /tmp/vcs_20180305072136_2595_tlenz..stdin -toolout /tmp/vcs_20180305072136_2595_tlenz..stdout  
+01:21:39    17 -->                                                                 [tcl] set ucliGUI::state
+01:21:40    18 -->                                                                     [tcl] gui_update_simulator_buttons
+01:21:41    19 -->                                                                         [tcl] set ucliGUI::state
+01:21:41    20 -->                                                                             [tcl] ucliCore::getToolPID
+01:21:41    21 -->                                                                                 [tcl] synopsys::env hasTB
+01:21:41    22 -->                                                                                     [tcl] trigger_hier_stack_context_switch 0
+01:21:41    23 -->                                                                                         [tcl] synUtils::setDVEInitPhase 1
+01:21:41    24 -->                                                                                             [tcl] gui_get_env SIMSETUP::SIMVPD
+01:21:41    25 --> ...  [tcl] synopsys::dump -type VPD -file /misc/scratch/tlenz/lpr/project/rtl/inter.vpd -locking
+01:21:41    26 --> ...      [tcl] synopsys::dump -autoflush on -fid VPD0
+01:21:41    27 --> ...          [tcl] set ::dve_fid VPD0
+01:21:41    28 --> ...              [tcl] synUtils::setDVEInitPhase 0
+01:21:41    29 --> ...                  [tcl] ucliCore::getToolPID
+01:21:41    30 --> ...                      [tcl] synUtils::sendTool -active _icl_setToolSocket /tmp/smlnpC14VGt
+01:21:41    31 --> ...                          [tcl] synUtils::sendTool -active {_icl_start_rpc -version "K-2015.09-SP1_Full64" -sync_file /tmp/vcs_dve_rpc.tlenz.2600}
+01:21:41    32 --> ...                              [tcl] synUtils::sendTool -active {_icl_createSharedMemory /tmp/vcs_dve_general.tlenz.2600}
+01:21:41    33 --> ...                                  [tcl] dveMisc::vbusExpand timeunit
+01:21:41    34 --> ...                                      [tcl] config endofsim noexit
+01:21:41    35 --> ...                                          [tcl] config onfail enable all
+01:21:41    36 --> ...                                              [tcl] config syscaddplainmembers
+01:21:41    37 --> ...                                                  [tcl] config syscaddsourcenames
+01:21:41    38 --> ...                                                      [tcl] config syscaddstructtypes
+01:21:41    39 --> ...                                                          [tcl] synopsys::listing -disable
+01:21:45    40 --> ...                                                              [tcl] dveMisc::vbusExpand rc
+01:22:11    41 --> ...                                                                  [tcl] dveMisc::vbusExpand rc.a4
+01:22:37    42 --> ...                                                                      [tcl] dveMisc::vbusExpand rc.a3

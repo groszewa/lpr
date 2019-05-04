@@ -1,0 +1,8 @@
+##load vcs 
+module load syn/vcs
+
+#run vcs
+vcs -full64 counter.v counter_tb.v [...]
+
+#open up waveform viewer
+dve -full64 &

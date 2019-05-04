@@ -1,0 +1,38 @@
+vgs = 1.2
+w = 1E-6
+k = 3.6E-6
+
+L_mean = 0.18E-6
+L_std = 0.01E-6
+
+Vth_mean = 0.2
+Vth_std = 0.06
+
+
+
+
+%test
+%Idsat = (((1/2)*w*k)./L_mean).*(vgs - Vth_mean).^2
+
+% Idsat_min_min = (((1/2)*w*k)./L_min).*(vgs - Vth_min).^2
+% Idsat_min_max = (((1/2)*w*k)./L_min).*(vgs - Vth_max).^2
+% Idsat_max_min = (((1/2)*w*k)./L_max).*(vgs - Vth_min).^2
+% Idsat_max_max = (((1/2)*w*k)./L_max).*(vgs - Vth_max).^2
+% 
+% x = 0:0.001:0.6
+% y = normpdf(x,Vth_mean,Vth_std)
+% 
+% subplot(2,1,1)
+% plot(x,y)
+% title('PDF of Voltage (V)')
+% 
+% x = 0:0.001E-7:0.3E-6
+% y = normpdf(x,L_mean,L_std)
+%   subplot(2,1,2)
+%   plot(x,y)
+%   title('PDF of Channel Length (m)')
+
+
+
+
+

@@ -1,0 +1,15 @@
+# Cadence Encounter(R) RTL Compiler
+#   version RC14.28 - v14.20-s067_1 (64-bit) built Jun 22 2016
+#
+# Run with the following arguments:
+#   -logfile rc.log
+#   -cmdfile rc.cmd
+
+set_attribute hdl_search_path {./}
+set_attribute lib_search_path {./}
+set_attribute library [list gscl45nm.lib]
+set current_design pipe_mul_top
+set myFiles [list pipe_mul.v]
+read_hdl ${myFiles}
+elaborate ${current_design}
+exit

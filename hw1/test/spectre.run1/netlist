@@ -1,0 +1,6 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: q1_an
+// View name: schematic
+M0 (Vout Vin 0 0) nmos w=0.32 u l=0.032 u
+M1 (Vout Vin vdd! vdd!) pmos w=0.32 u l=0.032 u

@@ -1,0 +1,179 @@
+0 
+29
++cli+4
++itf+/usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/vcsd.tab
++memcbk
++vcsd
++vpi
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/usr/local/packages/synopsys_2015/vcs-mx/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/libvirsim.so /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/liberrorinf.so /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/usr/local/packages/synopsys_2015/vcs-mx/include
+-Xcbug=0x1
+-debug=3
+-f master
+-full64
+-gen_obj
+-picarchive
+/usr/local/packages/synopsys_2015/vcs-mx/linux64/bin/vcs1
+61
+sysc_uni_pwd=/home/ecelrc/students/sshaikh1/vlsi1/test/rtl
+XSESSION_EXEC=xfce4-session
+XDG_SESSION_COOKIE=c1e22219e2fcc400a75df0a700000028-1510633536.812434-2005520439
+XAUTHORITY=/home/ecelrc/students/sshaikh1//.Xauthority
+X2GO_SESSION=sshaikh1-54-1510633525_stDXFCE_dp32
+X2GO_AGENT_PID=26036
+VMR_MODE_FLAG=64
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME_modshare=/usr/local/packages/synopsys_2015/vcs-mx/:2
+VCS_HOME=/usr/local/packages/synopsys_2015/vcs-mx/
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOOL_HOME=/usr/local/packages/synopsys_2015/vcs-mx/linux64
+TCLSH=/usr/bin/tclsh
+SYNOPSYS_SYN_ROOT=/usr/local/packages/synopsys_2015/syn
+SYNOPSYS_LC_ROOT=/usr/local/packages/synopsys_2015/lib_compiler
+STARTUP=/usr/bin/env LD_LIBRARY_PATH=/usr/lib64/nx/X11/Xinerama:/usr/lib64/nx/X11:/usr/local/lib xfce4-session
+SSH_CONNECTION=172.29.247.3 64334 146.6.221.70 22
+SSH_CLIENT=172.29.247.3 64334 22
+SSH_AUTH_SOCK=/tmp/ssh-otiIe26740/agent.26740
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SSH_AGENT_PID=26742
+SNPSLMD_LICENSE_FILE_modshare=/usr/local/packages/synopsys_2015/key:3
+SNPSLMD_LICENSE_FILE=/usr/local/packages/synopsys_2015/key
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/26740,unix/unix:/tmp/.ICE-unix/26740
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_GRAPHICSSYSTEM=native
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+PULSE_CLIENTCONFIG=/home/ecelrc/students/sshaikh1//.x2go/C-sshaikh1-54-1510633525_stDXFCE_dp32/.pulse-client.conf
+PATH_modshare=/usr/local/packages/synopsys_2015/lib_compiler/linux64/syn/bin:1:/usr/bin:1:/usr/local/packages/synopsys_2015/syn/linux64/syn/bin:1:/usr/X11R6/bin:1:/usr/local/packages/synopsys_2015/syn/amd64/bin:1:/usr/local/bin:1:/usr/local/packages/matlab_2017a/bin:1:/usr/local/packages/synopsys_2015/vcs-mx/bin:2:/usr/local/packages/synopsys_2015/syn/bin:1:/bin:1:/usr/local/packages/matlab_2017a/toolbox:1:/usr/local/packages/validation/bin:1:/sbin:1:/usr/sbin:1:/usr/local/etc:1:/usr/local/packages/synopsys_2015/vcs-mx/amd64/bin:2
+OVA_UUM=0
+NX_XINERAMA_CONF=/home/ecelrc/students/sshaikh1//.x2go/C-sshaikh1-54-1510633525_stDXFCE_dp32/xinerama.conf
+MODULESHOME=/home/projects/Modules
+MODULEPATH_modshare=/home/projects/Modules/tools:5:/home/projects/Modules/projects:5:/home/projects/Modules/base:5
+MODULEPATH=/home/projects/Modules/projects:/home/projects/Modules/tools:/home/projects/Modules/base
+MAVEN_HOME=/usr/share/apache-maven
+MANPATH_modshare=/usr/man:10:/home/projects/Modules/man:5:/usr/X11R6/man:5:/usr/local/man:5:/usr/share/man:10
+MAILPATH=/var/spool/mail/sshaikh1
+M2_HOME=/usr/share/apache-maven
+LOADEDMODULES_modshare=synopsys/syn/2015:1:openwin:5:admin:5:system:5:modules:5:matlab/2017:1:synopsys/vcs/2015:2:ece-defaults:5:aliases:5:local:5
+LOADEDMODULES=modules:system:openwin:aliases:local:admin:ece-defaults:synopsys/vcs/2015:matlab/2017:synopsys/syn/2015
+LM_LICENSE_FILE_modshare=/usr/local/packages/matlab_2017a/etc/license.dat:1:/usr/local/packages/synopsys_2015/key:3
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LD_LIBRARY_PATH_modshare=/usr/local/packages/matlab_2017a/matlab_lib:1:/usr/lib64:2:/usr/local/packages/synopsys_2015/vcs-mx/amd64/lib:2:/usr/local/lib:2:/usr/lib64/nx/X11:999999999:/usr/lib64/nx/X11/Xinerama:999999999
+LC_ALL=C
+KDEDIRS=/usr
+HISTCONTROL=ignoredups
+G_BROKEN_FILENAMES=1
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-YVyQAPr6Et,guid=517aa5c10907d9489f7b200d002036e5
+CVS_RSH=ssh
+COLORTERM=Terminal
+CCACHE_HASHDIR=
+0
+78
+1440356202 models2/dff_leaf_generic.v
+1440356202 models2/dff_generic.v
+1440356202 models2/alu_generic.v
+1440356204 models2/zero.v
+1440356204 models2/xor2.v
+1440356204 models2/tribuf.v
+1440356204 models2/stdxor2.v
+1440356204 models2/stdor2.v
+1440356204 models2/stdoa21.v
+1440356204 models2/stdnor3.v
+1440356204 models2/stdnor2.v
+1440356204 models2/stdnand2.v
+1440356204 models2/stdmux4.v
+1440356204 models2/stdmux3.v
+1440356204 models2/stdmux2.v
+1440356204 models2/stdlatch_c.v
+1440356204 models2/stdlatch.v
+1440356204 models2/stdinv.v
+1440356204 models2/stddff_p.v
+1440356204 models2/stddff_cq.v
+1440356204 models2/stddff_c.v
+1440356204 models2/stddff.v
+1440356204 models2/stdbufinv.v
+1440356204 models2/stdbuf.v
+1440356202 models2/stdao222.v
+1440356202 models2/stdand4.v
+1440356202 models2/stdand3.v
+1440356202 models2/stdand2.v
+1440356202 models2/stdaddh.v
+1440356202 models2/stdadd.v
+1440356202 models2/regfile2r.v
+1440356202 models2/or2.v
+1440356202 models2/nor2.v
+1440356202 models2/mux4.v
+1440356202 models2/mux3.v
+1440356202 models2/mux2.v
+1440356202 models2/latch_c.v
+1440356202 models2/incbar.v
+1440356202 models2/inc.v
+1440356202 models2/dffs_cq.v
+1440356202 models2/dffs_c.v
+1440356202 models2/dff_c.v
+1440356202 models2/compl.v
+1440356202 models2/buff.v
+1440356202 models2/barrelfun.v
+1440356202 models2/and2.v
+1440356202 models2/aluv.v
+1440356204 signals2.defs
+1440356204 signal.defs
+1440356204 test.config
+1440356204 mem2.v
+1511564713 main.v
+1440356204 arm.v
+1440356204 arm_dp.v
+1440356204 arm_ctrl_comb.v
+1440356204 arm_ctrl_struct.v
+1440356204 shift.v
+1440356204 shift_carry.v
+1440356204 arm_alu.v
+1440356204 aluflags.v
+1440356204 mapaluops.v
+1440356204 regfile.v
+1440356204 decode_addresses.v
+1440356204 regfile_struct.v
+1440356204 getreg.v
+1440356204 getregfromlist.v
+1440356204 count.v
+1440356204 bop.v
+1440356204 aop.v
+1440356204 ir.v
+1440356204 ar.v
+1440356204 dout.v
+1440356204 din.v
+1440356204 exc.v
+1440356204 forward.v
+1440356204 detect_skip.v
+1511564713 master
+1448424285 /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/vcsd.tab
+4
+0 
+1448427877 /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/libvirsim.so
+1448427558 /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/liberrorinf.so
+1448427538 /usr/local/packages/synopsys_2015/vcs-mx/linux64/lib/libsnpsmalloc.so
+1511564738 simv.daidir

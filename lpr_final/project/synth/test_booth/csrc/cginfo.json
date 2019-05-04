@@ -1,0 +1,85 @@
+{
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.046991999999999999,
+            "ru_nvcsw": 144,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.031995000000000003,
+            "ru_maxrss_kb": 48120,
+            "ru_nivcsw": 17,
+            "ru_minflt": 10970
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0
+        },
+        "nMops": 899,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0
+        },
+        "nQuads": 293,
+        "outputSizePerQuad": 274.0,
+        "totalObjSize": 80454,
+        "ru_self_end": {
+            "ru_utime_sec": 0.056991,
+            "ru_nvcsw": 211,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.039993000000000001,
+            "ru_maxrss_kb": 55032,
+            "ru_nivcsw": 31,
+            "ru_minflt": 13067
+        },
+        "Frontend(%)": 82.45512449334106,
+        "CodeGen(%)": 17.544875506658947
+    },
+    "NameTable": {
+        "testbench": [
+            "testbench",
+            "iAVhC",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileModules": [
+        "...MASTER...",
+        "testbench"
+    ],
+    "CurCompileUdps": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 57094
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.25447.json"
+    ],
+    "Misc": {
+        "cwd": "/misc/scratch/ajgrosze/lpr/project/synth/test_booth",
+        "csrc": "csrc",
+        "csrc_abs": "/misc/scratch/ajgrosze/lpr/project/synth/test_booth/csrc",
+        "archive_dir": "archive.0",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/misc/scratch/ajgrosze/lpr/project/synth/test_booth/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "CompileStatus": "Successful"
+}

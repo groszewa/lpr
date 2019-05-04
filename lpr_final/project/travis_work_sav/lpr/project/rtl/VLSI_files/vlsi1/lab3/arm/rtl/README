@@ -1,0 +1,12 @@
+Modified:
+	regfile_struct.v
+
+
+A student used VCS for lab3 and found that regfile_struct.v
+and regfile.v were wrong(Aport is dangling).
+So I modified them and tested with ADD instruction to make
+sure Aport works.
+
+Warning: No change to original design files in directories
+under arm!!!
+

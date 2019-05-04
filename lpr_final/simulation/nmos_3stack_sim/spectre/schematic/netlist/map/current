@@ -1,0 +1,15 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "nmos_3stack_sim"
+  repList "spectre cmos_sch cmos.sch schematic veriloga"
+  stopList "spectre"
+  globalList "vss!"
+  hierDelim "."
+  netlistDir "/home/ecelrc/students/agroszewski/simulation/nmos_3stack_sim/spectre/schematic/netlist"
+ )
+( model
+( "ajgrosze_scratch/nmos_3stack_sim/schematic" "nmos_3stack_sim" )
+ )
+( "nmos_3stack_sim" "ihnl/cds0/map" )
+ )

@@ -1,0 +1,102 @@
+{
+    "counter_0000": [
+        "counter_0000",
+        "DjtTS",
+        "module"
+    ],
+    "pipe_mul_32b": [
+        "pipe_mul_32b",
+        "DLCLm",
+        "module"
+    ],
+    "counter_0001": [
+        "counter_0001",
+        "ZeHqI",
+        "module"
+    ],
+    "counter_0002": [
+        "counter_0002",
+        "gfKFe",
+        "module"
+    ],
+    "comp_2b": [
+        "comp_2b",
+        "fA2Uu",
+        "module"
+    ],
+    "det_stoch_mul": [
+        "det_stoch_mul",
+        "vKGVm",
+        "module"
+    ],
+    "comp_8b": [
+        "comp_8b",
+        "rpIIn",
+        "module"
+    ],
+    "comp_10b": [
+        "comp_10b",
+        "ImfRL",
+        "module"
+    ],
+    "prg_4b": [
+        "prg_4b",
+        "LqjQm",
+        "module"
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module"
+    ],
+    "ctr_out_bank_32_q": [
+        "ctr_out_bank_32_q",
+        "epzi0",
+        "module"
+    ],
+    "shift_reg_32b": [
+        "shift_reg_32b",
+        "IBJVr",
+        "module"
+    ],
+    "shift_reg_32b_q": [
+        "shift_reg_32b_q",
+        "aQCzp",
+        "module"
+    ],
+    "shift_reg_32b_half": [
+        "shift_reg_32b_half",
+        "SU8LJ",
+        "module"
+    ],
+    "pipe_mul_16b": [
+        "pipe_mul_16b",
+        "H4SVv",
+        "module"
+    ],
+    "pipe_mul_8b": [
+        "pipe_mul_8b",
+        "LUu6B",
+        "module"
+    ],
+    "pipe_mul_2b": [
+        "pipe_mul_2b",
+        "QRPpj",
+        "module"
+    ],
+    "ctr_out_bank_32": [
+        "ctr_out_bank_32",
+        "FpAYW",
+        "module"
+    ],
+    "ctr_out_bank_32_half": [
+        "ctr_out_bank_32_half",
+        "rVj8u",
+        "module"
+    ],
+    "pipe_mul_5b_e_top": [
+        "pipe_mul_5b_e_top",
+        "Cxt4V",
+        "module"
+    ]
+}

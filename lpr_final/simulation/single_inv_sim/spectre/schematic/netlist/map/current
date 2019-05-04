@@ -1,0 +1,20 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "single_inv_sim"
+  repList "spectre cmos_sch cmos.sch schematic veriloga"
+  stopList "spectre"
+  globalList "gnd!"
+  hierDelim "."
+  netlistDir "/home/ecelrc/students/agroszewski/simulation/single_inv_sim/spectre/schematic/netlist"
+ )
+( net
+( "gnd!" "0" )
+ )
+( model
+( "ajgrosze_scratch/inv/schematic" "inv" )
+( "ajgrosze_scratch/single_inv_sim/schematic" "single_inv_sim" )
+ )
+( "single_inv_sim" "ihnl/cds1/map" )
+( "inv" "ihnl/cds0/map" )
+ )

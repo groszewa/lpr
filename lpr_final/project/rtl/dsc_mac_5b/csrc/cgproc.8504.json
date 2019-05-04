@@ -1,0 +1,87 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "comp_2b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg_4b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "dsc_mac_top": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "prg_8b": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 8107,
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "LqjQm_d": {
+            "mod": "prg_4b",
+            "out": "LqjQm_d.o",
+            "bytes": 10851,
+            "archive": "archive.0/_8504_archive_1.a",
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "fA2Uu_d": {
+            "mod": "comp_2b",
+            "out": "fA2Uu_d.o",
+            "bytes": 8015,
+            "archive": "archive.0/_8504_archive_1.a",
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "yjz5B_d": {
+            "mod": "dsc_mac_top",
+            "out": "yjz5B_d.o",
+            "bytes": 25627,
+            "archive": "archive.0/_8504_archive_1.a",
+            "mode": 4,
+            "checksum": 4294967295
+        },
+        "tSIe8_d": {
+            "mod": "prg_8b",
+            "out": "tSIe8_d.o",
+            "bytes": 12155,
+            "archive": "archive.0/_8504_archive_1.a",
+            "mode": 4,
+            "checksum": 4294967295
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_8504_archive_1.a",
+            "objects": [
+                [
+                    "fA2Uu_d.o",
+                    8015
+                ],
+                [
+                    "LqjQm_d.o",
+                    10851
+                ],
+                [
+                    "tSIe8_d.o",
+                    12155
+                ],
+                [
+                    "yjz5B_d.o",
+                    25627
+                ]
+            ],
+            "size": 56648
+        }
+    ]
+}

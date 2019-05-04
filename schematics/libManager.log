@@ -1,0 +1,188 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 09/11/2017 15:13 (sjfnl050) $
+\o Sub version:		sub-version  s057 
+\o Arguments:		-mpssession virtuoso2921 -mpshost wario 
+\o Working Directory:	wario:/home/ecelrc/students/agroszewski/lpr/schematics
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o Log file is "/home/ecelrc/students/agroszewski/lpr/schematics/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(0 31 602 491))
+\o changeWorkingDir("/home/ecelrc/students/agroszewski/lpr/schematics") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a cdsLibManager->libListBox->value = "ajgrosze_scratch"
+\a cdsLibManager->libLineEdit->value = "ajgrosze_scratch"
+\a cdsLibManager->cellListBox->value = "nmos_vth"
+\a cdsLibManager->cellLineEdit->value = "nmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a lmgrLogShowPopup("mainListPopup1" 59 8 2 "nmos_vth")
+\a cdsLibManager->copySimpleButton->value = t
+\a basicCopyForm->CategoryCellsEdit->value = "*"
+\a basicCopyForm->CellsSkipLibraries->value = t
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->ViewsSkipLibraries->value = t
+\a basicCopyForm->ViewsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->CopyFromLibrary->value = "US_8ths"
+\a basicCopyForm->CopyToLibrary->value = "US_8ths"
+\a basicCopyForm->CopyFromLibrary->value = "ajgrosze_scratch"
+\a basicCopyForm->CopyFromCell->value = "nmos_vth"
+\a basicCopyForm->CopyToLibrary->value = "ajgrosze_scratch"
+\a basicCopyForm->CopyToCell->value = "nmos_vth"
+\a basicCopyForm->CellsViewsToCopy->value = "schematic"
+\a basicCopyForm->CellsSkipLibrariesEdit->value = ""
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "US_8ths ahdlLib analogLib basic cdsDefTechLib functional rfExamples rfLib"
+\a basicCopyForm->ViewsSkipLibrariesEdit->value = "US_8ths ahdlLib analogLib basic cdsDefTechLib functional rfExamples rfLib"
+\a nrSetWindowVisibility(basicCopyForm "show")
+\a nrSetCurrentWindow(basicCopyForm)
+\a nrResizeWindow(basicCopyForm list(79 31 444 642))
+\a basicCopyForm->CopyToCell->value = "pmos_vth"
+\a basicCopyForm->OK->value = t
+\o Beginning simple copy to library "ajgrosze_scratch".
+\o Processing files to be copied...
+\a nrSetWindowVisibility(workingDialogForm "show")
+\a nrSetCurrentWindow(workingDialogForm)
+\a nrResizeWindow(workingDialogForm list(160 210 281 133))
+\a nrSetWindowVisibility(workingDialogForm "show")
+\a nrSetCurrentWindow(basicCopyForm)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(workingDialogForm)
+\a nrResizeWindow(workingDialogForm list(160 210 281 133))
+\a workingDialogForm->Close->value = t
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->libListBox->value = "ajgrosze_scratch"
+\a cdsLibManager->libLineEdit->value = "ajgrosze_scratch"
+\a cdsLibManager->cellListBox->value = "nmos_vth"
+\a cdsLibManager->cellLineEdit->value = "nmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "*"
+\a basicCopyForm->CellsSkipLibrariesEdit->value = "US_8ths ahdlLib analogLib basic cdsDefTechLib functional rfExamples rfLib"
+\a cdsLibManager->cellListBox->value = "pmos_vth"
+\a cdsLibManager->cellLineEdit->value = "pmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 1 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "ajgrosze_scratch"
+\a cdsLibManager->libLineEdit->value = "ajgrosze_scratch"
+\a cdsLibManager->cellListBox->value = "pmos_vth"
+\a cdsLibManager->cellLineEdit->value = "pmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "nmos_vth"
+\a cdsLibManager->cellLineEdit->value = "nmos_vth"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "ajgrosze_scratch"
+\a cdsLibManager->libLineEdit->value = "ajgrosze_scratch"
+\a cdsLibManager->cellListBox->value = "nmos_vth"
+\a cdsLibManager->cellLineEdit->value = "nmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "pmos_vth"
+\a cdsLibManager->cellLineEdit->value = "pmos_vth"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 1 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "ajgrosze_scratch"
+\a cdsLibManager->libLineEdit->value = "ajgrosze_scratch"
+\a cdsLibManager->cellListBox->value = "pmos_vth"
+\a cdsLibManager->cellLineEdit->value = "pmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(598 273 602 491))
+\a nrResizeWindow(cdsLibManager list(574 146 602 491))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "nmos_vth"
+\a cdsLibManager->cellLineEdit->value = "nmos_vth"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "ajgrosze_scratch"
+\a cdsLibManager->libLineEdit->value = "ajgrosze_scratch"
+\a cdsLibManager->cellListBox->value = "nmos_vth"
+\a cdsLibManager->cellLineEdit->value = "nmos_vth"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)

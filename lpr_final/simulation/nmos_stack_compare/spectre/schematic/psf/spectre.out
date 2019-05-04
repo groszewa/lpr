@@ -1,0 +1,252 @@
+
+Spectre (R) Circuit Simulator
+Version 16.1.0.479.isr9 64bit -- 7 Sep 2017
+Copyright (C) 1989-2017 Cadence Design Systems, Inc. All rights reserved worldwide. Cadence and Spectre are registered trademarks of Cadence Design Systems, Inc. All others are the property of their respective holders.
+
+Includes RSA BSAFE(R) Cryptographic or Security Protocol Software from RSA Security, Inc.
+
+User: agroszewski   Host: wario   HostID: 6924DDD   PID: 27409
+Memory  available: 55.4291 GB  physical: 101.4334 GB
+Linux   : CentOS release 6.9 (Final)
+CPU Type: Intel(R) Xeon(R) CPU           X5660  @ 2.80GHz
+        Socket: Processors [Frequency] (Hyperthreaded Processor)
+        0:       0 [1600.0] ( 12 ),  1 [1600.0] ( 13 ),  2 [1600.0] ( 14 )
+                 3 [1600.0] ( 15 ),  4 [1600.0] ( 16 ),  5 [1600.0] ( 17 )
+        1:       6 [1600.0] ( 18 ),  7 [1600.0] ( 19 ),  8 [1600.0] ( 20 )
+                 9 [1600.0] ( 21 ), 10 [1600.0] ( 22 ), 11 [1600.0] ( 23 )
+        
+System load averages (1min, 5min, 15min) : 774.2 %, 774.2 %, 773.8 %
+Hyperthreading is enabled
+
+
+Simulating `input.scs' on wario at 6:32:54 PM, Sat Feb 17, 2018 (process id: 27409).
+Current working directory: /home/ecelrc/students/agroszewski/simulation/nmos_stack_compare/spectre/schematic/netlist
+Command line:
+    /usr/local/packages/cadence_2017/spectre161/tools.lnx86/bin/spectre  \
+        -64 input.scs +escchars +log ../psf/spectre.out +inter=mpsc  \
+        +mpssession=spectre12_28288_36 -format psfxl -raw ../psf  \
+        +lqtimeout 900 -maxw 5 -maxn 5
+spectre pid = 27409
+
+Loading /usr/local/packages/cadence_2017/spectre161/tools.lnx86/cmi/lib/64bit/5.0/libinfineon_sh.so ...
+Loading /usr/local/packages/cadence_2017/spectre161/tools.lnx86/cmi/lib/64bit/5.0/libphilips_o_sh.so ...
+Loading /usr/local/packages/cadence_2017/spectre161/tools.lnx86/cmi/lib/64bit/5.0/libphilips_sh.so ...
+Loading /usr/local/packages/cadence_2017/spectre161/tools.lnx86/cmi/lib/64bit/5.0/libsparam_sh.so ...
+Loading /usr/local/packages/cadence_2017/spectre161/tools.lnx86/cmi/lib/64bit/5.0/libstmodels_sh.so ...
+Reading file:  /home/ecelrc/students/agroszewski/simulation/nmos_stack_compare/spectre/schematic/netlist/input.scs
+Reading link:  /usr/local/packages
+Reading file:  /misc/linuxws/packages/cadence_2017/spectre161/tools.lnx86/spectre/etc/configs/mapsubckt.cfg
+Reading file:  /misc/linuxws/packages/cadence_2017/spectre161/tools.lnx86/spectre/etc/configs/spectre.cfg
+Reading file:  /home/ecelrc/students/agroszewski/lpr/schematics/models/32nm_LP.pm
+Time for NDB Parsing: CPU = 130.981 ms, elapsed = 261.784 ms.
+Time accumulated: CPU = 158.975 ms, elapsed = 261.79 ms.
+Peak resident memory used = 46.5 Mbytes.
+
+
+The CPU load for active processors is :
+        Spectre  0 (7.7 %)       4 (3.8 %)       6 (19.2 %)      7 (3.8 %)
+                 8 (7.4 %)      13 (40.0 %)     14 (7.7 %)      16 (8.0 %)
+                18 (12.0 %)     19 (32.0 %)     20 (19.2 %)     22 (7.7 %)
+                23 (46.2 %)     
+        Other   
+Reading link:  /usr/local/packages/cadence_2017/spectre161/tools.lnx86/spectre/etc/ahdl/discipline.h
+Reading file:  /misc/linuxws/packages/cadence_2017/spectre161/tools.lnx86/spectre/etc/ahdl/disciplines.vams
+Reading link:  /usr/local/packages/cadence_2017/spectre161/tools.lnx86/spectre/etc/ahdl/constants.h
+Reading file:  /misc/linuxws/packages/cadence_2017/spectre161/tools.lnx86/spectre/etc/ahdl/constants.vams
+Time for Elaboration: CPU = 20.997 ms, elapsed = 23.962 ms.
+Time accumulated: CPU = 179.972 ms, elapsed = 285.877 ms.
+Peak resident memory used = 53 Mbytes.
+
+
+Time for EDB Visiting: CPU = 1 ms, elapsed = 617.981 us.
+Time accumulated: CPU = 180.972 ms, elapsed = 286.616 ms.
+Peak resident memory used = 53.5 Mbytes.
+
+
+Notice from spectre during topology check.
+    No connections to node `0'.
+    No DC path from node `Mstack_top:int_g' to ground, Gmin installed to provide path.
+
+
+Global user options:
+             reltol = 0.001
+            vabstol = 1e-06
+            iabstol = 1e-12
+               temp = 27
+               gmin = 1e-12
+             rforce = 1
+           maxnotes = 5
+           maxwarns = 5
+             digits = 5
+               cols = 80
+             pivrel = 0.001
+           sensfile = ../psf/sens.output
+     checklimitdest = psf
+               save = allpub
+               tnom = 27
+             scalem = 1
+              scale = 1
+
+Scoped user options:
+
+Circuit inventory:
+              nodes 4
+              bsim4 3     
+            vsource 2     
+
+Analysis and control statement inventory:
+                 dc 1     
+               info 6     
+
+Output statements:
+             .probe 0     
+           .measure 0     
+               save 1     
+
+Time for parsing: CPU = 1.999 ms, elapsed = 4.36783 ms.
+Time accumulated: CPU = 182.971 ms, elapsed = 291.089 ms.
+Peak resident memory used = 54.8 Mbytes.
+
+~~~~~~~~~~~~~~~~~~~~~~
+Pre-Simulation Summary
+~~~~~~~~~~~~~~~~~~~~~~
+
+Warning from spectre.
+    WARNING (SPECTRE-470): No connections to node `gnd'.
+
+~~~~~~~~~~~~~~~~~~~~~~
+Entering remote command mode using MPSC service (spectre, ipi, v0.0, spectre12_28288_36, ).
+
+Warning from spectre.
+    WARNING (SPECTRE-16707): Only tran supports psfxl format, result of other analyses will be in psfbin format.
+
+
+**********************************
+DC Analysis `dc': vgs = (0 -> 1.2)
+**********************************
+
+Opening the PSF file ../psf/dc.dc ...
+Important parameter values:
+    reltol = 1e-03
+    abstol(V) = 1 uV
+    abstol(I) = 1 pA
+    temp = 27 C
+    tnom = 27 C
+    tempeffects = all
+    gmindc = 1 pS
+
+Notice from spectre at vgs = 0 during DC analysis `dc'.
+    GminDC = 1 pS is large enough to noticeably affect the DC solution.
+        dV(net07) = 40.6559 mV
+        Use the `gmin_check' option to eliminate or expand this report.
+Notice from spectre at vgs = 24e-03 during DC analysis `dc'.
+    GminDC = 1 pS is large enough to noticeably affect the DC solution.
+        dV(net07) = 16.3153 mV
+        Use the `gmin_check' option to eliminate or expand this report.
+Notice from spectre at vgs = 48e-03 during DC analysis `dc'.
+    GminDC = 1 pS is large enough to noticeably affect the DC solution.
+        dV(net07) = 7.40714 mV
+        Use the `gmin_check' option to eliminate or expand this report.
+
+    dc: vgs = 48e-03         (4 %), step = 24e-03          (2 %)
+
+Notice from spectre at vgs = 72e-03 during DC analysis `dc'.
+    GminDC = 1 pS is large enough to noticeably affect the DC solution.
+        dV(net07) = 3.62168 mV
+        Use the `gmin_check' option to eliminate or expand this report.
+
+    dc: vgs = 72e-03         (6 %), step = 24e-03          (2 %)
+
+Notice from spectre at vgs = 96e-03 during DC analysis `dc'.
+    GminDC = 1 pS is large enough to noticeably affect the DC solution.
+        Further occurrences of this notice will be suppressed.
+        dV(net07) = 1.83592 mV
+        Further occurrences of this notice will be suppressed.
+        Use the `gmin_check' option to eliminate or expand this report.
+        Further occurrences of this notice will be suppressed.
+
+    dc: vgs = 96e-03         (8 %), step = 24e-03          (2 %)
+    dc: vgs = 120e-03       (10 %), step = 24e-03          (2 %)
+    dc: vgs = 144e-03       (12 %), step = 24e-03          (2 %)
+    dc: vgs = 168e-03       (14 %), step = 24e-03          (2 %)
+    dc: vgs = 192e-03       (16 %), step = 24e-03          (2 %)
+    dc: vgs = 216e-03       (18 %), step = 24e-03          (2 %)
+    dc: vgs = 240e-03       (20 %), step = 24e-03          (2 %)
+    dc: vgs = 264e-03       (22 %), step = 24e-03          (2 %)
+    dc: vgs = 288e-03       (24 %), step = 24e-03          (2 %)
+    dc: vgs = 312e-03       (26 %), step = 24e-03          (2 %)
+    dc: vgs = 336e-03       (28 %), step = 24e-03          (2 %)
+    dc: vgs = 360e-03       (30 %), step = 24e-03          (2 %)
+    dc: vgs = 384e-03       (32 %), step = 24e-03          (2 %)
+    dc: vgs = 408e-03       (34 %), step = 24e-03          (2 %)
+    dc: vgs = 432e-03       (36 %), step = 24e-03          (2 %)
+    dc: vgs = 456e-03       (38 %), step = 24e-03          (2 %)
+    dc: vgs = 480e-03       (40 %), step = 24e-03          (2 %)
+    dc: vgs = 504e-03       (42 %), step = 24e-03          (2 %)
+    dc: vgs = 528e-03       (44 %), step = 24e-03          (2 %)
+    dc: vgs = 552e-03       (46 %), step = 24e-03          (2 %)
+    dc: vgs = 576e-03       (48 %), step = 24e-03          (2 %)
+    dc: vgs = 600e-03       (50 %), step = 24e-03          (2 %)
+    dc: vgs = 624e-03       (52 %), step = 24e-03          (2 %)
+    dc: vgs = 648e-03       (54 %), step = 24e-03          (2 %)
+    dc: vgs = 672e-03       (56 %), step = 24e-03          (2 %)
+    dc: vgs = 696e-03       (58 %), step = 24e-03          (2 %)
+    dc: vgs = 720e-03       (60 %), step = 24e-03          (2 %)
+    dc: vgs = 744e-03       (62 %), step = 24e-03          (2 %)
+    dc: vgs = 768e-03       (64 %), step = 24e-03          (2 %)
+    dc: vgs = 792e-03       (66 %), step = 24e-03          (2 %)
+    dc: vgs = 816e-03       (68 %), step = 24e-03          (2 %)
+    dc: vgs = 840e-03       (70 %), step = 24e-03          (2 %)
+    dc: vgs = 864e-03       (72 %), step = 24e-03          (2 %)
+    dc: vgs = 888e-03       (74 %), step = 24e-03          (2 %)
+    dc: vgs = 912e-03       (76 %), step = 24e-03          (2 %)
+    dc: vgs = 936e-03       (78 %), step = 24e-03          (2 %)
+    dc: vgs = 960e-03       (80 %), step = 24e-03          (2 %)
+    dc: vgs = 984e-03       (82 %), step = 24e-03          (2 %)
+    dc: vgs = 1.008         (84 %), step = 24e-03          (2 %)
+    dc: vgs = 1.032         (86 %), step = 24e-03          (2 %)
+    dc: vgs = 1.056         (88 %), step = 24e-03          (2 %)
+    dc: vgs = 1.08          (90 %), step = 24e-03          (2 %)
+    dc: vgs = 1.104         (92 %), step = 24e-03          (2 %)
+    dc: vgs = 1.128         (94 %), step = 24e-03          (2 %)
+    dc: vgs = 1.152         (96 %), step = 24e-03          (2 %)
+    dc: vgs = 1.176         (98 %), step = 24e-03          (2 %)
+    dc: vgs = 1.2          (100 %), step = 24e-03          (2 %)
+
+Maximum value achieved for any signal of each quantity: 
+V: V(vss!) = 1.2 V
+I: I(V0:p) = 410.3 uA
+DC simulation time: CPU = 198.969 ms, elapsed = 337.217 ms.
+Total time required for dc analysis `dc': CPU = 14.998 ms, elapsed = 19.1679 ms.
+Time accumulated: CPU = 199.969 ms, elapsed = 339.369 ms.
+Peak resident memory used = 56.5 Mbytes.
+
+
+Notice from spectre.
+    46 notices suppressed.
+
+modelParameter: writing model parameter values to rawfile.
+
+Opening the PSF file ../psf/modelParameter.info ...
+element: writing instance parameter values to rawfile.
+
+Opening the PSF file ../psf/element.info ...
+outputParameter: writing output parameter values to rawfile.
+
+Opening the PSF file ../psf/outputParameter.info ...
+designParamVals: writing netlist parameters to rawfile.
+
+Opening the PSFASCII file ../psf/designParamVals.info ...
+primitives: writing primitives to rawfile.
+
+Opening the PSFASCII file ../psf/primitives.info.primitives ...
+subckts: writing subcircuits to rawfile.
+
+Opening the PSFASCII file ../psf/subckts.info.subckts ...
+
+Aggregate audit (10:54:46 PM, Wed Feb 21, 2018):
+Time used: CPU = 9.6 s, elapsed = 361 ks (4d 4h 21m), util. = 2.66e-03%.
+Time spent in licensing: elapsed = 18.7 ms.
+Peak memory used = 61.3 Mbytes.
+Simulation started at: 6:32:54 PM, Sat Feb 17, 2018, ended at: 10:54:46 PM, Wed Feb 21, 2018, with elapsed time (wall clock): 361 ks (4d 4h 21m).
+spectre completes with 0 errors, 2 warnings, and 8 notices.

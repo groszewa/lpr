@@ -1,0 +1,10 @@
+CADENCE IHNL11140
+$model
+ajgrosze_scratch/nmos_stack_compare/schematic nmos_stack_compare
+$endmodel
+$net
+vss! vss!
+$endnet
+$param
+vgs vgs
+$endparam

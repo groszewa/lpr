@@ -1,0 +1,16 @@
+
+// Library name: ajgrosze_scratch
+// Cell name: inv
+// View name: schematic
+subckt inv in out vdd
+    M0 (out in 0 0) nmos w=128n l=32n
+    M1 (out in vdd vdd) pmos w=256n l=32n
+ends inv
+// End of subcircuit definition.
+
+// Library name: ajgrosze_scratch
+// Cell name: single_inv_sim
+// View name: schematic
+I0 (net5 vout net3) inv
+V1 (net3 0) vsource dc=vdc type=dc
+V0 (net5 0) vsource dc=0 type=dc

@@ -1,0 +1,88 @@
+{
+    "NameTable": {
+        "counter_tb": [
+            "counter_tb",
+            "DHWT6",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "mop/quad": 2.436893203883495,
+        "ru_self_cgstart": {
+            "ru_nvcsw": 183,
+            "ru_majflt": 0,
+            "ru_utime_sec": 0.046991999999999999,
+            "ru_stime_sec": 0.028995,
+            "ru_maxrss_kb": 53388,
+            "ru_minflt": 11800,
+            "ru_nivcsw": 16
+        },
+        "ru_self_end": {
+            "ru_nvcsw": 260,
+            "ru_majflt": 0,
+            "ru_utime_sec": 0.060990000000000003,
+            "ru_stime_sec": 0.041993000000000003,
+            "ru_maxrss_kb": 59476,
+            "ru_minflt": 13686,
+            "ru_nivcsw": 33
+        },
+        "nQuads": 206,
+        "CodeGen(%)": 22.951303492375803,
+        "Frontend(%)": 77.0486965076242,
+        "ru_childs_cgstart": {
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_nivcsw": 0
+        },
+        "nMops": 502,
+        "totalObjSize": 83300,
+        "ru_childs_end": {
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_nivcsw": 0
+        },
+        "mopSpeed": 35862.266038005422,
+        "quadSpeed": 14716.388055436488,
+        "outputSizePerQuad": 404.0
+    },
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.2151.json"
+    ],
+    "CurCompileUdps": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "counter_tb"
+    ],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 58400
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "Misc": {
+        "csrc_abs": "/misc/scratch/tlenz/lpr/project/rtl/csrc",
+        "cwd": "/misc/scratch/tlenz/lpr/project/rtl",
+        "csrc": "csrc",
+        "daidir": "simv.daidir",
+        "default_output_dir": "csrc",
+        "daidir_abs": "/misc/scratch/tlenz/lpr/project/rtl/simv.daidir",
+        "archive_dir": "archive.0"
+    },
+    "CompileStatus": "Successful"
+}

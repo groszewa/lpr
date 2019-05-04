@@ -1,0 +1,2 @@
+SOFTINCLUDE /misc/linuxws/packages/cadence_2017/ic617/share/cdssetup/cds.lib
+DEFINE ajgrosze_scratch /home/ecelrc/students/agroszewski/lpr/schematics/ajgrosze_scratch

@@ -1,0 +1,4 @@
+    M0 (out in 0 0) nmos w=128n l=32n
+    M1 (out in vdd vdd) pmos w=256n l=32n
+ends inv
+// End of subcircuit definition.

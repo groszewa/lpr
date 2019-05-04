@@ -1,0 +1,121 @@
+//
+// signal.defs
+//
+// David Van Campenhout
+//
+//
+//
+//
+
+`define IR	TOP.ARM.IR
+`define aluFlags TOP.ARM.DP.aluFlagsOut
+`define dpStat	TOP.ARM.dpStat
+`define mask	TOP.ARM.mask
+`define mode	TOP.ARM.mode
+`define skip	TOP.ARM.skip
+
+`define ar_clk	TOP.ARM.DP.ar.clk_ar
+`define enAR_phi2	TOP.ARM.DP.ar.enAR_phi2
+
+`define R0U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[0]
+`define R1U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[1]
+`define R2U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[2]
+`define R3U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[3]
+`define R4U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[4]
+`define R5U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[5]
+`define R6U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[6]
+`define R7U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[7]
+`define R8U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[8]
+`define R9U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[9]
+`define R10U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[10]
+`define R11U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[11]
+`define R12U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[12]
+`define R13U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[13]
+`define R14U	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[14]
+`define R15	{TOP.ARM.DP.regfile.STRUCT.stat_Q, TOP.ARM.DP.regfile.STRUCT.mask_Q, TOP.ARM.DP.regfile.STRUCT.pcAddr_Q, TOP.ARM.DP.regfile.STRUCT.mode_Q}
+
+`define R8F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[16]
+`define R9F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[17]
+`define R10F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[18]
+`define R11F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[19]
+`define R12F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[20]
+`define R13F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[21]
+`define R14F	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[22]
+
+`define R13I 	TOP.ARM.DP.regfile.STRUCT.IRQ13_Q
+`define R14I 	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[15]
+`define R13S 	TOP.ARM.DP.regfile.STRUCT.SVC13_Q
+`define R14S 	TOP.ARM.DP.regfile.STRUCT.regfile.mem_array[23]
+
+`define M0	TOP.MEM.mem[0]
+`define M1	TOP.MEM.mem[1]
+`define M2	TOP.MEM.mem[2]
+`define M3	TOP.MEM.mem[3]
+`define M4	TOP.MEM.mem[4]
+`define M5	TOP.MEM.mem[5]
+`define M6	TOP.MEM.mem[6]
+`define M7	TOP.MEM.mem[7]
+
+`define M8	TOP.MEM.mem[8]
+`define M9	TOP.MEM.mem[9]
+`define M10	TOP.MEM.mem[10]
+`define M11	TOP.MEM.mem[11]
+`define M12	TOP.MEM.mem[12]
+`define M13	TOP.MEM.mem[13]
+`define M14	TOP.MEM.mem[14]
+`define M15	TOP.MEM.mem[15]
+
+`define M16	TOP.MEM.mem[16]
+`define M17	TOP.MEM.mem[17]
+`define M18	TOP.MEM.mem[18]
+`define M19	TOP.MEM.mem[19]
+`define M20	TOP.MEM.mem[20]
+`define M21	TOP.MEM.mem[21]
+`define M22	TOP.MEM.mem[22]
+`define M23	TOP.MEM.mem[23]
+
+`define M24	TOP.MEM.mem[24]
+`define M25	TOP.MEM.mem[25]
+`define M26	TOP.MEM.mem[26]
+`define M27	TOP.MEM.mem[27]
+`define M28	TOP.MEM.mem[28]
+`define M29	TOP.MEM.mem[29]
+`define M30	TOP.MEM.mem[30]
+`define M31	TOP.MEM.mem[31]
+
+`define M32	TOP.MEM.mem[32]
+`define M33	TOP.MEM.mem[33]
+`define M34	TOP.MEM.mem[34]
+`define M35	TOP.MEM.mem[35]
+`define M36	TOP.MEM.mem[36]
+`define M37	TOP.MEM.mem[37]
+`define M38	TOP.MEM.mem[38]
+`define M39	TOP.MEM.mem[39]
+
+`define M40	TOP.MEM.mem[40]
+`define M41	TOP.MEM.mem[41]
+`define M42	TOP.MEM.mem[42]
+`define M43	TOP.MEM.mem[43]
+`define M44	TOP.MEM.mem[44]
+`define M45	TOP.MEM.mem[45]
+`define M46	TOP.MEM.mem[46]
+`define M47	TOP.MEM.mem[47]
+
+`define M48	TOP.MEM.mem[48]
+`define M49	TOP.MEM.mem[49]
+`define M50	TOP.MEM.mem[50]
+`define M51	TOP.MEM.mem[51]
+`define M52	TOP.MEM.mem[52]
+`define M53	TOP.MEM.mem[53]
+`define M54	TOP.MEM.mem[54]
+`define M55	TOP.MEM.mem[55]
+
+`define M56	TOP.MEM.mem[56]
+`define M57	TOP.MEM.mem[57]
+`define M58	TOP.MEM.mem[58]
+`define M59	TOP.MEM.mem[59]
+`define M60	TOP.MEM.mem[60]
+`define M61	TOP.MEM.mem[61]
+`define M62	TOP.MEM.mem[62]
+`define M63	TOP.MEM.mem[63]
+

@@ -1,0 +1,15 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "nmos_stack_compare"
+  repList "spectre cmos_sch cmos.sch schematic veriloga"
+  stopList "spectre"
+  globalList "vss!"
+  hierDelim "."
+  netlistDir "/home/ecelrc/students/agroszewski/simulation/nmos_stack_compare/spectre/schematic/netlist"
+ )
+( model
+( "ajgrosze_scratch/nmos_stack_compare/schematic" "nmos_stack_compare" )
+ )
+( "nmos_stack_compare" "ihnl/cds0/map" )
+ )

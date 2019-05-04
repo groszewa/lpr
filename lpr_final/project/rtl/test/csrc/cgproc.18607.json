@@ -1,0 +1,17 @@
+{
+    "Modules": {
+        "counter_tb": {},
+        "...MASTER...": {}
+    },
+    "ObjArchives": [],
+    "CompUnits": {
+        "amcQw_d": {
+            "bytes": 7101,
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "mode": 4,
+            "checksum": 4294967295
+        }
+    },
+    "reusePaths": {}
+}

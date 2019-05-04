@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Feb 17 00:44:53 2018
+// Design library name: ajgrosze_scratch
+// Design cell name: nmos_stack_compare
+// Design view name: schematic
+simulator lang=spectre
+global 0 vss!
